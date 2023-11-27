@@ -1,0 +1,10 @@
+
+{  
+    "skipJsErrors": true,
+    "baseUrl": "https://www.amazon.co.uk/",
+    "browsers": "chrome",
+    "screenshots": {
+        "takeOnFails": true,
+        "thumbnails": false
+    }
+}
